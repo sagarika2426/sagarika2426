@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h3>My GitHub Stats</h3>
+<!--   <h3>My GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=sagarika2426&show_icons=true&&coountprivate=true&theme=react&hide_title=true" alt="GitHub stats"/>
-  <hr width="50%"/>
+  <hr width="50%"/> -->
   <h3>My Skills</h3>
   <img aling="left" src="https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,redux,nodejs,express,mongodb,mui" alt="My Skills"/>
   <hr width="50%"/>
