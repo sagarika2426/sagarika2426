@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=sagarika2426&show_icons=true&&coountprivate=true&theme=react&hide_title=true" alt="GitHub stats"/>
   <hr width="50%"/> -->
   <h3>My Skills</h3>
-  <img aling="left" src="https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,redux,nodejs,express,mongodb,mui,django" alt="My Skills"/>
+  <img aling="left" src="https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,redux,nodejs,express,mongodb,mui,git,django" alt="My Skills"/>
   <hr width="50%"/>
    <h3>Some More Data... 😁</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarika2426&theme=dark" alt="GitHub stats"/>
