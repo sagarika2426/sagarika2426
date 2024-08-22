@@ -1,5 +1,5 @@
-### Hi there 👋
-### I am Sagarika and I love Building stuffs online. 
+#### Hi there 👋
+#### I’m Sagarika, a Frontend Developer with a passion for creating dynamic and responsive web apps. Proficient in ReactJS, HTML, CSS, and JavaScript, I’m also diving into Django to broaden my backend skills. Always eager to explore new technologies, I focus on delivering seamless user experiences and optimizing performance. Let’s build something amazing together! 
 
 <!--
 **sagarika2426/sagarika2426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
